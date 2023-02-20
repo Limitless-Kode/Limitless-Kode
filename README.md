@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Peter Claver
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Elixir
-- 💞️ I’m looking to collaborate on any exciting projects
-- 📫 Let's connect via mail limitless.claver@gmail.com
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Peter Claver</h1>
+<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+</div>
 
-<!---
-Limitless-Kode/Limitless-Kode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
