@@ -39,9 +39,9 @@
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%3677BD.svg?logo=typescript&logoColor=black"></a>
+    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%2300599C.svg?logo=typescript&logoColor=black"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%3677BD.svg?logo=php&logoColor=black"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%232370ED.svg?logo=php&logoColor=black"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
