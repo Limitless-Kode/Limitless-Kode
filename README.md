@@ -1,5 +1,7 @@
-<div align="center">
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+<div align="center">
+  <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png" />
   
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Peter Claver</h1>
 <p align="center">DevOps and Full-Stack Developer with expertise in Mobile App Development. Passionate about developing and deploying innovative solutions to drive efficiency and streamline processes. Experienced in implementing CI/CD pipelines, cloud infrastructure, and utilizing agile methodologies to deliver high-quality software. Always exploring new technologies and constantly seeking to learn and grow as a developer. </p>
