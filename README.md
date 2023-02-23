@@ -30,10 +30,26 @@
 <div align="center">
 
 <a href="https://github.com/limitless-kode/">
-  <img src="https://github-readme-stats.vercel.app/api?username=limitless-kode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=limitless-kode&theme=radical&hide_border=false" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=limitless-kode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=limitless-kode&theme=radical&hide_border=false" width="350"/>
 </a>
 </div>
+
+<br>
+<br>
+-----
+## Programming Languages
+
+<p>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+</p>
 
 
 <br>
