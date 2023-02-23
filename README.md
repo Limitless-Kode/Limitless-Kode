@@ -13,7 +13,7 @@
   <a href="https://user-badge.committers.top/india_private/limitless-kode"><img src="https://user-badge.committers.top/india_private/limitless-kode.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/limitless-kode?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/limitless-kode?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/limitless-kode"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <a href="https://github.com/sponsors/limitless-kode"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a> •
   <img src="https://wakatime.com/badge/user/da0fc9e0-8749-47d9-b357-7e123efe3cf2.svg" alt="Wakatime Stats" />
 </p>
 
