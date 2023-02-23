@@ -30,6 +30,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=limitless-kode&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=limitless-kode&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitless-kode&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=limitless-kode&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats" />|
 
 
 ## Programming Languages
