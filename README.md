@@ -30,11 +30,6 @@
 </a>
 </div>
 
-<p align="center">
-  <img width="75%" src="https://github.com/limitless-kode/limitless-kode/blob/master/metrics.svg"/>
-  <img src="https://github.com/JayantGoel001/limitless-kode/blob/master/metrics.detailed.svg" width="75%"/>
-</p>
-
 
 <br>
 <br>
