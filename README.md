@@ -69,8 +69,7 @@
 	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 	<a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?for-the-badge&logo=xcode&logoColor=white"></a>
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&logoColor=white"></a>
-	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
+	<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 
