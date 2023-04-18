@@ -31,7 +31,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=limitless-kode&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=limitless-kode&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitless-kode&layout=compact&theme=github_dark"/>|<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=claver&theme=github_dark&v=2"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitless-kode&layout=compact&theme=github_dark&langs_count=10&hide=html,less,css,scss"/>|<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=claver&theme=github_dark&v=2"/>
 
 
 ## Programming Languages
@@ -41,7 +41,6 @@
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%2300599C.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP%20-%232370ED.svg?logo=php&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a> -->
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -49,6 +48,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
+![PHP](https://img.shields.io/badge/PHP%20-%232370ED.svg?logo=php&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=flat&logo=kotlin)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=flat&logo=dart)&nbsp;
